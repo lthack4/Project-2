@@ -14,4 +14,12 @@ Tony Dinh
 
 ## How to Run 
 
+1. To compile type in terminal
 
+    make
+
+2. To run type in terminal
+
+    make run
+
+3. 
