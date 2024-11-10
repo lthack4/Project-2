@@ -10,6 +10,7 @@ Trent Nguyen trentnguyen21@csu.fullerton.edu
 Thomas Nguyen thomasn1003@csu.fullerton.edu
 
 Tony Dinh 
+tonydinh1990@csu.fullerton.edu
 
 
 ## How to Run 
