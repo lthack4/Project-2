@@ -23,4 +23,4 @@ tonydinh1990@csu.fullerton.edu
 
     make run
 
-3. 
+3. This will output the outcomes of the test cases defined by the program

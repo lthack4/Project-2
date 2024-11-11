@@ -1,5 +1,84 @@
+Test case 1
 person1_schedule = [['7:00', '8:30'], ['12:00', '13:00'], ['16:00', '18:00']]
 person1_daily_act = ['9:00', '19:00']
 person2_schedule = [['9:00', '10:30'], ['12:20', '13:30'], ['14:00', '15:00'], ['16:00', '17:00']]
-person2_daily_act = ['9:00', '18:30']
+person2_daily_act = ['10:00', '18:30']
+duration_of_meeting = 30
+
+Test Case 2 
+person1_schedule = [['6:00', '9:30'], ['11:00', '13:00'], ['17:00', '18:00']]
+person1_daily_act = ['7:00', '19:00']
+person2_schedule = [['7:00', '9:15'], ['11:30', '13:00'], ['14:30', '16:00'], ['17:00', '20:00']]
+person2_daily_act = ['8:00', '17:15']
+duration_of_meeting = 30
+
+
+Test case 1
+person1_schedule = [['7:00', '8:30'], ['12:00', '13:00'], ['16:00', '18:00']]
+person1_daily_act = ['9:00', '19:00']
+person2_schedule = [['9:00', '10:30'], ['12:20', '13:30'], ['14:00', '15:00'], ['16:00', '17:00']]
+person2_daily_act = ['10:00', '18:30']
+duration_of_meeting = 30
+
+Test Case 2
+person1_schedule = [['6:00', '9:30'], ['11:00', '13:00'], ['17:00', '18:00']]
+person1_daily_act = ['7:00', '19:00']
+person2_schedule = [['7:00', '9:15'], ['11:30', '13:00'], ['14:30', '16:00'], ['17:00', '20:00']]
+person2_daily_act = ['8:00', '17:15']
+duration_of_meeting = 30
+
+Test Case 3
+person1_schedule = [['8:00', '10:00'], ['14:00', '15:30'], ['18:30', '20:00']]
+person1_daily_act = ['7:00', '21:00']
+person2_schedule = [['9:30', '11:00'], ['13:00', '14:30'], ['17:00', '19:00']]
+person2_daily_act = ['8:00', '20:00']
+duration_of_meeting = 45
+
+Test Case 4
+person1_schedule = [['9:00', '11:00'], ['14:00', '16:00']]
+person1_daily_act = ['9:00', '17:00']
+person2_schedule = [['10:00', '12:00'], ['13:30', '15:30']]
+person2_daily_act = ['10:00', '16:00']
+duration_of_meeting = 60
+
+Test Case 5
+person1_schedule = [['9:00', '12:00'], ['14:00', '15:30']]
+person1_daily_act = ['9:00', '18:00']
+person2_schedule = [['10:00', '13:00'], ['16:00', '18:00']]
+person2_daily_act = ['9:30', '18:30']
+duration_of_meeting = 30
+
+Test Case 6
+person1_schedule = [['7:00', '9:00'], ['10:30', '12:30']]
+person1_daily_act = ['7:00', '15:30']
+person2_schedule = [['8:00', '10:00'], ['13:00', '15:00']]
+person2_daily_act = ['8:00', '15:00']
+duration_of_meeting = 45
+
+Test Case 7
+person1_schedule = [['6:00', '9:00'], ['11:00', '13:00'], ['16:00', '18:00']]
+person1_daily_act = ['6:00', '18:00']
+person2_schedule = [['7:00', '8:00'], ['13:00', '15:00']]
+person2_daily_act = ['7:00', '15:30']
+duration_of_meeting = 30
+
+Test Case 8
+person1_schedule = [['10:00', '12:00'], ['15:00', '17:00']]
+person1_daily_act = ['9:00', '19:00']
+person2_schedule = [['11:00', '13:00'], ['16:00', '18:00']]
+person2_daily_act = ['10:00', '18:30']
+duration_of_meeting = 45
+
+Test Case 9
+person1_schedule = [['8:00', '10:00'], ['12:00', '14:00']]
+person1_daily_act = ['8:00', '16:00']
+person2_schedule = [['9:00', '11:00'], ['13:00', '15:00']]
+person2_daily_act = ['9:00', '17:00']
+duration_of_meeting = 60
+
+Test Case 10
+person1_schedule = [['8:00', '9:30'], ['10:30', '13:00'], ['14:30', '16:00']]
+person1_daily_act = ['8:00', '18:00']
+person2_schedule = [['9:00', '11:00'], ['12:00', '13:30'], ['15:30', '18:00']]
+person2_daily_act = ['9:00', '17:00']
 duration_of_meeting = 30
